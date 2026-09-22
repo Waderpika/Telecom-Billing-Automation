@@ -2,6 +2,33 @@
 
 A production-style end-to-end test automation framework built with Java, Selenium WebDriver, Maven, TestNG, and Rest Assured — covering UI and API testing for an e-commerce web application.
 
+# Selenium Automation Framework
+
+## Overview
+A production-style end-to-end test automation framework built with **Java 17, Selenium WebDriver, Maven, TestNG, and Rest Assured** — covering UI and API testing for an e-commerce web application.
+
+## Features
+- 🚀 UI automation with Selenium WebDriver
+- 🧪 API testing with Rest Assured
+- 📊 TestNG integration for structured test execution
+- 📑 ExtentReports for rich HTML reporting
+- 🔄 Maven build management
+- ⚙️ Jenkinsfile for CI/CD pipeline setup
+
+## Tech Stack
+- Java 17
+- Maven 3.9.16
+- Selenium WebDriver 4.18.1
+- TestNG 7.9.0
+- Rest Assured 5.4.0
+- ExtentReports 5.1.1
+
+## Example Test Cases
+- ✅ Login (valid/invalid credentials)
+- ✅ Cart operations (add/remove items)
+- ✅ Checkout flow validation
+- ✅ API tests for user management
+
 ---
 
 ## Tech Stack
@@ -125,3 +152,4 @@ To set up in Jenkins: New Item → Pipeline → point to this repo → Jenkins p
 
 Built as part of an SDET automation portfolio.
 Skills demonstrated: Java, Selenium WebDriver, Maven, TestNG, Rest Assured, POM design pattern, parallel execution, CI/CD with Jenkins.
+
